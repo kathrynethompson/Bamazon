@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon App",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathrynethompson/Bamazon.git"
+  },
+  "author": "Kathryne Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathrynethompson/Bamazon/issues"
+  },
+  "homepage": "https://github.com/kathrynethompson/Bamazon#readme"
+}
